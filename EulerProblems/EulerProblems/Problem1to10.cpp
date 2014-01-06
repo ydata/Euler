@@ -19,7 +19,7 @@ void Problem1::Run(){
 void Problem2::Run(){
 	printf("Problem 2:\n");
 
-	int limit = 4e6;
+	int limit = (int)4e6;
 	int a1 = 1;
 	int a2 = 1;
 	int a3 = a1 + a2;
