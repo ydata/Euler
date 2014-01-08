@@ -7,7 +7,9 @@
 
 #include <stdio.h>
 #include <tchar.h>
-
+#include <math.h>
+#include <iostream>
+#include <vector>
 
 
 // TODO: reference additional headers your program requires here

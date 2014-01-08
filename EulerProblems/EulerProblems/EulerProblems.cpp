@@ -6,7 +6,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	Problem2().Run();
+	Problem4().Run();
 
 	return 0;
 }
