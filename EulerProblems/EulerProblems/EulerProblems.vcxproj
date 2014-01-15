@@ -79,11 +79,13 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Problem11to20.h" />
     <ClInclude Include="Problem1to10.h" />
     <ClInclude Include="stdafx.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="EulerProblems.cpp" />
+    <ClCompile Include="Problem11to20.cpp" />
     <ClCompile Include="Problem1to10.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>

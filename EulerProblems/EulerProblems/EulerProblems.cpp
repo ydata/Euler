@@ -3,10 +3,11 @@
 
 #include "stdafx.h"
 #include "Problem1to10.h"
+#include "Problem11to20.h"
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	Problem4().Run();
+	Problem10().Run();
 
 	return 0;
 }
