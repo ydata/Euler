@@ -11,6 +11,8 @@
 #include <iostream>
 #include <vector>
 #include <fstream>
+#include <string>
+#include <algorithm>
 
 
 // TODO: reference additional headers your program requires here
